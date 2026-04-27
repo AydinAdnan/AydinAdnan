@@ -34,7 +34,7 @@ Minimal serverless file sharing with direct peer-to-peer transfers.
 
 ## Current Interests
 
-Fintech • Product Engineering • Scalable APIs • Mobile Products • Automation
+FullStack • Product Engineering • Scalable APIs • Mobile Products • Automation
 
 ---
 
