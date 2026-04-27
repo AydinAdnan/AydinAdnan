@@ -1,20 +1,45 @@
-# Hey, I'm Aydin 👋
+<div align="center">
 
-Backend-focused full-stack developer building scalable apps.
+# Aydin Adnan
 
-## Currently Working On
-- Tavlo POS System
-- Fintech ideas
-- AI-powered products
+Backend-focused full-stack developer building products that are fast, scalable, and practical.  
+Interested in fintech, backend systems, and creating software people actually use.
 
-## Tech Stack
-Python • FastAPI • React Native • TypeScript • Supabase • PostgreSQL
+<br/>
 
-## Projects
-- Tavlo – Mobile POS
-- MintShare – Serverless file sharing
-- Waste Detection AI
+[LinkedIn](https://www.linkedin.com/in/aydin-adnan-976974244) •
+[Portfolio](https://aydinadnan.vercel.app)
 
-## Contact
-LinkedIn: ...
-Portfolio: ...
+</div>
+
+---
+
+## Building
+
+### Tavlo  
+Modern mobile POS platform focused on speed, simplicity, and reliability.  
+→ https://tavlo.in
+
+### MintShare  
+Minimal serverless file sharing with direct peer-to-peer transfers.  
+→ https://mintshare.vercel.app
+
+---
+
+## Tech
+
+`Python` `TypeScript` `FastAPI` `React Native` `Supabase` `PostgreSQL`
+
+---
+
+## Current Interests
+
+Fintech • Product Engineering • Scalable APIs • Mobile Products • Automation
+
+---
+
+<div align="center">
+
+*Always building something new.*
+
+</div>
