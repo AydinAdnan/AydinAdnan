@@ -17,7 +17,7 @@ Interested in fintech, backend systems, and creating software people actually us
 ## Building
 
 ### Tavlo  
-Modern mobile POS platform focused on speed, simplicity, and reliability.  
+Modern mobile POS platform focused on speed, simplicity, reliability and comes with AI features including intelligent profitability calculator and Image Recognition.  
 → https://tavlo.in
 
 ### MintShare  
@@ -28,7 +28,7 @@ Minimal serverless file sharing with direct peer-to-peer transfers.
 
 ## Tech
 
-`Python` `TypeScript` `FastAPI` `React Native` `Supabase` `PostgreSQL`
+`Python` `TypeScript` `Javascript` `FastAPI` `React Native` `Supabase` `PostgreSQL`
 
 ---
 
