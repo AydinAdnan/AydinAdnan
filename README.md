@@ -21,7 +21,7 @@ Modern mobile POS platform focused on speed, simplicity, reliability and comes w
 → https://tavlo.in
 
 ### MintShare  
-Minimal serverless file sharing with direct peer-to-peer transfers.  
+Serverless file sharing with direct peer-to-peer transfers.  
 → https://mintshare.vercel.app
 
 ---
