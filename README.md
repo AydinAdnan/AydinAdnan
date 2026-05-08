@@ -40,6 +40,6 @@ FullStack • Product Engineering • Scalable APIs • Mobile Products • Auto
 
 <div align="center">
 
-*Always building something new.*
+*Always finding solutions to stupid problems*
 
 </div>
