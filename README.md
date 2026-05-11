@@ -2,7 +2,7 @@
 
 # Aydin Adnan
 
-Backend-focused full-stack developer building products that are fast, scalable, and practical.  
+Aspiring Full Stack developer building products that are fast, scalable, and practical.  
 Interested in fintech, backend systems, and creating software people actually use.
 
 <br/>
@@ -28,18 +28,13 @@ Serverless file sharing with direct peer-to-peer transfers.
 
 ## Tech
 
-`Python` `TypeScript` `Javascript` `FastAPI` `React Native` `Supabase` `PostgreSQL`
+`Python` `Java` `TypeScript` `Javascript` `FastAPI` `React Native` `Supabase` `PostgreSQL`
 
 ---
 
 ## Current Interests
 
-FullStack • Product Engineering • Scalable APIs • Mobile Products • Automation
+FullStack • Product Engineering • AI • Scalable APIs • Automation
 
 ---
 
-<div align="center">
-
-*Always finding solutions to stupid problems*
-
-</div>
