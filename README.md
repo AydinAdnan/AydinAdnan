@@ -3,7 +3,7 @@
 # Aydin Adnan
 
 Aspiring Full Stack developer building products that are fast, scalable, and practical.  
-Interested in fintech, backend systems, and creating software people actually use.
+Interested in fintech, backend systems, and creating software solutions to realworld problems.
 
 <br/>
 
