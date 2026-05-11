@@ -20,6 +20,9 @@ Interested in fintech, backend systems, and creating software solutions to realw
 Modern mobile POS platform focused on speed, simplicity, reliability and comes with AI features including intelligent profitability calculator and Image Recognition.  
 → https://tavlo.in
 
+Create your ERP mobile application in less than 30 minutes, just select the modules you need and click on build. Tavlo Intelligently creates a complete application with a proper database and you can just download and start using. (Coming soon - Open for early access )  
+→ https://build.tavlo.in
+
 ### MintShare  
 Serverless file sharing with direct peer-to-peer transfers.  
 → https://mintshare.vercel.app
