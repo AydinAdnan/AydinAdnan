@@ -37,7 +37,7 @@ Serverless file sharing with direct peer-to-peer transfers.
 
 ## Current Interests
 
-FullStack • Product Engineering • AI • Scalable APIs • Automation
+FullStack • Product Engineering • AI • APIs • Automation
 
 ---
 
