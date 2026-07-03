@@ -16,6 +16,10 @@ Interested in fintech, backend systems, and creating software solutions to realw
 
 ## Building
 
+### Arcade  
+A unified loyalty platform where businesses can list their stores and launch digital loyalty programs. Customers can store all their loyalty cards in one wallet, track reward points, redeem offers, and enjoy a seamless loyalty experience across multiple brands.
+→ https://joinarcade.in
+
 ### Tavlo  
 Modern mobile POS platform focused on speed, simplicity, reliability and comes with AI features including intelligent profitability calculator and Image Recognition.  
 → https://tavlo.in
