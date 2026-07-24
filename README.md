@@ -1,47 +1,97 @@
 <div align="center">
 
-# Aydin Adnan
+# hey, i'm aydin 👋
 
-Aspiring Full Stack developer building products that are fast, scalable, and practical.  
-Interested in fintech, backend systems, and creating software solutions to realworld problems.
+i like building things that solve real problems.
 
-<br/>
+most of my time goes into backend systems, ai, full stack apps, and random ideas that somehow end up becoming products.
 
-[LinkedIn](https://www.linkedin.com/in/aydin-adnan-976974244) •
-[Portfolio](https://aydinadnan.vercel.app)
+sometimes they even make it to production.
+
+[website](https://aydinadnan.vercel.app) •
+[linkedin](https://www.linkedin.com/in/aydin-adnan-976974244)
 
 </div>
 
 ---
 
-## Building
+## currently building
 
-### Arcade  
-A unified loyalty platform where businesses can list their stores and launch digital loyalty programs. Customers can store all their loyalty cards in one wallet, track reward points, redeem offers, and enjoy a seamless loyalty experience across multiple brands.
-→ https://joinarcade.in
+### 🎮 arcade
+a loyalty wallet that doesn't suck.
 
-### Tavlo  
-Modern mobile POS platform focused on speed, simplicity, reliability and comes with AI features including intelligent profitability calculator and Image Recognition.  
-→ https://tavlo.in
+businesses can launch loyalty programs, customers keep every loyalty card in one place, collect points, redeem rewards, and discover new places.
 
-Create your ERP mobile application in less than 30 minutes, just select the modules you need and click on build. Tavlo Intelligently creates a complete application with a proper database and you can just download and start using. (Coming soon - Open for early access )  
-→ https://build.tavlo.in
-
-### MintShare  
-Serverless file sharing with direct peer-to-peer transfers.  
-→ https://mintshare.vercel.app
+🔗 https://joinarcade.in
 
 ---
 
-## Tech
+### 🧾 tavlo
+mobile pos + erp with ai sprinkled everywhere.
 
-`Python` `Java` `TypeScript` `Javascript` `FastAPI` `React Native` `Supabase` `PostgreSQL`
+- barcode billing
+- inventory management
+- image recognition
+- profitability insights
+- analytics
+- built for businesses that don't want complicated software
+
+🔗 https://tavlo.in
+
+working on something fun:
+
+> build your own erp app in under 30 minutes.
+> pick your modules, click build, grab a coffee, download your app.
+
+(coming soon 👀)
+
+🔗 https://build.tavlo.in
 
 ---
 
-## Current Interests
+### 📦 mintshare
 
-FullStack • Product Engineering • AI • APIs • Automation
+share files directly between devices.
+
+no accounts.
+no uploads.
+just peer-to-peer.
+
+🔗 https://mintshare.vercel.app
 
 ---
 
+## things i enjoy
+
+- building products people actually use
+- backend engineering
+- ai & llms
+- fastapi
+- making boring workflows disappear
+- turning "this would be cool" into a weekend project
+
+---
+
+## toolbox
+
+```text
+python • java • typescript • javascript
+fastapi • react • react native
+postgres • supabase • docker
+git • linux
+```
+
+---
+
+## currently obsessed with
+
+- ai agents
+- rag systems
+- distributed systems
+- fintech
+- automation
+- shipping instead of overthinking
+
+---
+
+> if you have a cool idea, let's build it.
