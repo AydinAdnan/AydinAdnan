@@ -1,97 +1,63 @@
 <div align="center">
 
-# hey, i'm aydin 👋
+<table>
+<tr>
+<td width="42%" valign="top">
 
-i like building things that solve real problems.
-
-most of my time goes into backend systems, ai, full stack apps, and random ideas that somehow end up becoming products.
-
-sometimes they even make it to production.
-
-[website](https://aydinadnan.vercel.app) •
-[linkedin](https://www.linkedin.com/in/aydin-adnan-976974244)
-
-</div>
-
----
-
-## currently building
-
-### 🎮 arcade
-a loyalty wallet that doesn't suck.
-
-businesses can launch loyalty programs, customers keep every loyalty card in one place, collect points, redeem rewards, and discover new places.
-
-🔗 https://joinarcade.in
-
----
-
-### 🧾 tavlo
-mobile pos + erp with ai sprinkled everywhere.
-
-- barcode billing
-- inventory management
-- image recognition
-- profitability insights
-- analytics
-- built for businesses that don't want complicated software
-
-🔗 https://tavlo.in
-
-working on something fun:
-
-> build your own erp app in under 30 minutes.
-> pick your modules, click build, grab a coffee, download your app.
-
-(coming soon 👀)
-
-🔗 https://build.tavlo.in
-
----
-
-### 📦 mintshare
-
-share files directly between devices.
-
-no accounts.
-no uploads.
-just peer-to-peer.
-
-🔗 https://mintshare.vercel.app
-
----
-
-## things i enjoy
-
-- building products people actually use
-- backend engineering
-- ai & llms
-- fastapi
-- making boring workflows disappear
-- turning "this would be cool" into a weekend project
-
----
-
-## toolbox
-
-```text
-python • java • typescript • javascript
-fastapi • react • react native
-postgres • supabase • docker
-git • linux
+```
+   ╭─────────────────────╮
+   │ ○  ○  ○             │
+   ├─────────────────────┤
+   │ $ whoami            │
+   │ > aydin              │
+   │                      │
+   │ $ status             │
+   │ > shipping           │
+   │                      │
+   │ $ stack --list       │
+   │ > fastapi, react,    │
+   │   postgres, ai/rag   │
+   │                      │
+   │ $ ./build.sh         │
+   │ > idea → product     │
+   │   ▓▓▓▓▓▓▓▓░░  82%    │
+   │                      │
+   │ $ _█                 │
+   ╰─────────────────────╯
 ```
 
----
+</td>
+<td width="58%" valign="top">
 
-## currently obsessed with
+## aydin adnan
+**builder. backend + ai. i turn "this'd be cool" into production.**
 
-- ai agents
-- rag systems
-- distributed systems
-- fintech
-- automation
-- shipping instead of overthinking
+Most days: backend systems, LLMs, full-stack apps — and a side idea that quietly becomes a real product.
 
----
+### shipping now
 
-> if you have a cool idea, let's build it.
+**🎮 [arcade](https://joinarcade.in)** — a loyalty wallet that doesn't suck. one wallet, every loyalty card, real redemptions.
+
+**🧾 [tavlo](https://tavlo.in)** — mobile POS + ERP with AI baked in. barcode billing, inventory, image recognition, profitability at a glance. also building [build.tavlo.in](https://build.tavlo.in) — pick modules, hit build, get your own ERP app before your coffee's done.
+
+**📦 [mintshare](https://mintshare.vercel.app)** — peer-to-peer file sharing. no accounts, no uploads, just devices talking to each other.
+
+### stack
+
+`python` `typescript` `fastapi` `react` `react native` `postgres` `supabase` `docker`
+
+### obsessed with
+
+ai agents · RAG systems · distributed systems · fintech · automation · shipping over overthinking
+
+### find me
+
+[🌐 website](https://aydinadnan.vercel.app) · [💼 linkedin](https://www.linkedin.com/in/aydin-adnan-976974244)
+
+*got a cool idea? let's build it.*
+
+</td>
+</tr>
+</table>
+
+</div>
