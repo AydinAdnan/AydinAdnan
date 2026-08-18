@@ -3,5 +3,4 @@
 - **[Tavlo](https://tavlo.in)** → Mobile-first ERP with AI stock forecasting, UPI QR validation, staff attendance tracking, revenue analytics, GST reporting, and multi-store management.
 - **[MintShare](https://github.com/AydinAdnan/mintshare)** → Serverless peer-to-peer file sharing platform that transfers files directly between devices without uploading them to a central server.
 
-- **AI Website Cloner** → `JCodesMore/ai-website-cloner-template#95`
-- **Open Design** → `nexu-io/open-design#5314`
+- `JCodesMore/ai-website-cloner-template#95` / `nexu-io/open-design#5314`
